@@ -4,3 +4,6 @@ Basic process is install NVM (Node Version Manager), use nvm to install everythi
 
 More reading here -> https://nodejs.org/en/download/package-manager
 
+## Yarn setup
+
+basically enable corepack -> https://yarnpkg.com/getting-started/install
